@@ -86,14 +86,16 @@ Answer the following questions based on your understanding of the installation a
    - Outline the steps to set up and start debugging a simple program in VS Code. What are some key debugging features available in VS Code?
 
    You must have the extension installed for your programming language
+
    Steps:
-      Open your program file in the VS Code editor.
-      Access the Run and Debug from the toolbar 
-      Select the launch configuration
-      Start Debugging by clicking on the green play button.
+      1. Open your program file in the VS Code editor.
+      2. Access the Run and Debug from the toolbar 
+      3. Select the launch configuration
+      4. Start Debugging by clicking on the green play button.
+
    Features:
-      Breakpoints: Pause program execution at specific lines of code.
-      Stepping: Step through your code line by line
+      1. Breakpoints: Pause program execution at specific lines of code.
+      2. Stepping: Step through your code line by line
 
 10. Using Source Control:
     - How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
