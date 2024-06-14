@@ -98,19 +98,11 @@ Answer the following questions based on your understanding of the installation a
 10. Using Source Control:
     - How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
 
-    1. Ensure you have Git installed and git and github linked
-    2. Open your project folder/repo through Vs Code
-    3. Open the integrated terminal
-    4. Navigate to the folder with your project
-    5. Git init 
-    6. Stage it by git add <projectname>
-    7. Commit with a message by typing git commit <commitmessage>
-    8. Push the repo to github by <git push origin main/master>
-
-
- Submission Guidelines:
-- Your answers should be well-structured, concise, and to the point.
-- Provide screenshots or step-by-step instructions where applicable.
-- Cite any references or sources you use in your answers.
-- Submit your completed assignment by 1st July 
-
+      1. Ensure you have Git installed and git and github linked
+      2. Open your project folder/repo through Vs Code
+      3. Open the integrated terminal
+      4. Navigate to the folder with your project
+      5. Git init 
+      6. Stage it by git add "projectname"
+      7. Commit with a message by typing git commit "commitmessage"
+      8. Push the repo to github by "git push origin main/master"
